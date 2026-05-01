@@ -145,7 +145,7 @@ npm install
 npm run dev
 4️⃣ Open in Browser
 http://localhost:5173
-
+```bash
 ---
 <img width="1914" height="974" alt="Screenshot 2026-02-20 010742" src="https://github.com/user-attachments/assets/d25db6cc-3bf4-4943-bf06-7e2dcecdf60d" />
 
